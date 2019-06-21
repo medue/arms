@@ -1,0 +1,375 @@
+master:         # 主
+    PunchThrough:
+        cn: 穿透
+        id: 64
+    AmmoMaximum:
+        cn: 弹药最大值
+        id: 59
+    Cold:
+        cn: 冰
+        id: 53
+    CriticalChance:
+        cn: 爆率
+        id: 48
+    CriticalDamage:
+        cn: 爆伤
+        id: 49
+    Damage:
+        cn: 基伤
+        id: 61
+    DamageToCorpus:
+        cn: C歧视
+        id: 67
+    DamageToGrineer:
+        cn: G歧视
+        id: 68
+    DamageToInfested:
+        cn: I歧视
+        id: 69
+    Electricity:
+        cn: 电
+        id: 50
+    FireRate:
+        cn: 射速
+        id: 52
+    Heat:
+        cn: 火
+        id: 51
+    Impact:
+        cn: 冲击
+        id: 54
+    MagazineCapacity:
+        cn: 弹夹容量
+        id: 60
+    Multishot:
+        cn: 多重
+        id: 62
+    ProjectileSpeed:
+        cn: 弹道飞行速度
+        id: 63
+    Puncture:
+        cn: 穿刺
+        id: 47
+    ReloadSpeed:
+        cn: 装填速度
+        id: 66
+    Slash:
+        cn: 切割
+        id: 56
+    StatusChance:
+        cn: 触发几率
+        id: 57
+    StatusDuration:
+        cn: 触发持续时间
+        id: 55
+    Toxin:
+        cn: 毒
+        id: 58
+    WeaponRecoil:
+        cn: 后坐力
+        id: 65
+    Zoom:
+        cn: 变焦
+        id: 46
+master_curse:   # 主 -
+    AmmoMaximum:
+        cn: 弹药最大值
+        id: 59
+    CriticalChance:
+        cn: 爆率
+        id: 48
+    CriticalDamage:
+        cn: 爆伤
+        id: 49
+    Damage:
+        cn: 基伤
+        id: 61
+    DamageToCorpus:
+        cn: C歧视
+        id: 67
+    DamageToGrineer:
+        cn: G歧视
+        id: 68
+    DamageToInfested:
+        cn: I歧视
+        id: 69
+    FireRate:
+        cn: 射速
+        id: 52
+    Impact:
+        cn: 冲击
+        id: 54
+    MagazineCapacity:
+        cn: 弹夹容量
+        id: 60
+    Multishot:
+        cn: 多重
+        id: 62
+    ProjectileSpeed:
+        cn: 弹道飞行速度
+        id: 63
+    Puncture:
+        cn: 穿刺
+        id: 47
+    ReloadSpeed:
+        cn: 装填速度
+        id: 66
+    Slash:
+        cn: 切割
+        id: 56
+    StatusChance:
+        cn: 触发几率
+        id: 57
+    StatusDuration:
+        cn: 触发持续时间
+        id: 55
+    WeaponRecoil:
+        cn: 后坐力
+        id: 65
+    Zoom:
+        cn: 变焦
+        id: 46
+vice:           # 副
+    PunchThrough:
+        cn: 穿透
+        id: 87
+    AmmoMaximum:
+        cn: 弹药最大值
+        id: 82
+    Cold:
+        cn: 冰
+        id: 76
+    CriticalChance:
+        cn: 爆率
+        id: 71
+    CriticalDamage:
+        cn: 爆伤
+        id: 72
+    Damage:
+        cn: 基伤
+        id: 84
+    DamageToCorpus:
+        cn: C歧视
+        id: 90
+    DamageToGrineer:
+        cn: G歧视
+        id: 91
+    DamageToInfested:
+        cn: I歧视
+        id: 92
+    Electricity:
+        cn: 电
+        id: 73
+    FireRate:
+        cn: 射速
+        id: 75
+    Heat:
+        cn: 火
+        id: 74
+    Impact:
+        cn: 冲击
+        id: 77
+    MagazineCapacity:
+        cn: 弹夹容量
+        id: 83
+    Multishot:
+        cn: 多重
+        id: 85
+    ProjectileSpeed:
+        cn: 弹道飞行速度
+        id: 86
+    Puncture:
+        cn: 穿刺
+        id: 70
+    ReloadSpeed:
+        cn: 装填速度
+        id: 89
+    Slash:
+        cn: 切割
+        id: 79
+    StatusChance:
+        cn: 触发几率
+        id: 80
+    StatusDuration:
+        cn: 触发持续时间
+        id: 78
+    Toxin:
+        cn: 毒
+        id: 81
+    WeaponRecoil:
+        cn: 后坐力
+        id: 88
+    Zoom:
+        cn: 变焦
+        id: 93
+vice_curse:     # 副 -
+    AmmoMaximum:
+        cn: 弹药最大值
+        id: 82
+    CriticalChance:
+        cn: 爆率
+        id: 71
+    CriticalDamage:
+        cn: 爆伤
+        id: 72
+    Damage:
+        cn: 基伤
+        id: 84
+    DamageToCorpus:
+        cn: C歧视
+        id: 90
+    DamageToGrineer:
+        cn: G歧视
+        id: 91
+    DamageToInfested:
+        cn: I歧视
+        id: 92
+    FireRate:
+        cn: 射速
+        id: 75
+    Impact:
+        cn: 冲击
+        id: 77
+    MagazineCapacity:
+        cn: 弹夹容量
+        id: 83
+    Multishot:
+        cn: 多重
+        id: 85
+    ProjectileSpeed:
+        cn: 弹道飞行速度
+        id: 86
+    Puncture:
+        cn: 穿刺
+        id: 70
+    ReloadSpeed:
+        cn: 装填速度
+        id: 89
+    Slash:
+        cn: 切割
+        id: 79
+    StatusChance:
+        cn: 触发几率
+        id: 80
+    StatusDuration:
+        cn: 触发持续时间
+        id: 78
+    WeaponRecoil:
+        cn: 后坐力
+        id: 88
+    Zoom:
+        cn: 变焦
+        id: 93
+melee:          # 近战
+    AttackSpeed:
+        cn: 攻速
+        id: 15
+    ChannelingDamage:
+        cn: 引导伤害
+        id: 18
+    ChannelingEfficiency:
+        cn: 引导效率
+        id: 19
+    Cold:
+        cn: 冰
+        id: 9
+    CriticalChance:
+        cn: 爆率
+        id: 5
+    CriticalDamage:
+        cn: 爆伤
+        id: 6
+    CriticalHitChanceForSlideAttack:
+        cn: 滑爆
+        id: 20
+    DamageToCorpus:
+        cn: C歧视
+        id: 12
+    DamageToGrineer:
+        cn: G歧视
+        id: 13
+    DamageToInfested:
+        cn: I歧视
+        id: 14
+    Electricity:
+        cn: 电
+        id: 7
+    FinisherDamage:
+        cn: 处决伤害
+        id: 22
+    Heat:
+        cn: 火
+        id: 8
+    Impact:
+        cn: 冲击
+        id: 3
+    MeleeDamage:
+        cn: 近战伤害
+        id: 1
+    Puncture:
+        cn: 穿刺
+        id: 2
+    Range:
+        cn: 范围
+        id: 21
+    Slash:
+        cn: 切割
+        id: 4
+    StatusChance:
+        cn: 触发几率
+        id: 16
+    StatusDuration:
+        cn: 触发持续时间
+        id: 11
+    Toxin:
+        cn: 毒
+        id: 10
+    ComboDuration:
+        cn: 连击持续时间
+        id: 17
+melee_curse:    # 近战 -
+    AttackSpeed:
+        cn: 攻速
+        id: 15
+    CriticalChance:
+        cn: 爆率
+        id: 5
+    CriticalDamage:
+        cn: 爆伤
+        id: 6
+    CriticalHitChanceForSlideAttack:
+        cn: 滑爆
+        id: 20
+    DamageToCorpus:
+        cn: C歧视
+        id: 12
+    DamageToGrineer:
+        cn: G歧视
+        id: 13
+    DamageToInfested:
+        cn: I歧视
+        id: 14
+    FinisherDamage:
+        cn: 处决伤害
+        id: 22
+    Impact:
+        cn: 冲击
+        id: 3
+    Puncture:
+        cn: 穿刺
+        id: 2
+    Range:
+        cn: 范围
+        id: 21
+    Slash:
+        cn: 切割
+        id: 4
+    StatusChance:
+        cn: 触发几率
+        id: 16
+    StatusDuration:
+        cn: 触发持续时间
+        id: 11
+    ComboDuration:
+        cn: 连击持续时间
+        id: 17

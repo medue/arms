@@ -1,0 +1,1172 @@
+ACKBRUNT:
+    id: 0
+    cn: '认知&冲击'
+    query: false
+ACRID:
+    id: 1
+    cn: '阿克里德'
+    query: false
+AFURIS:
+    id: 2
+    cn: '盗贼双枪'
+    query: false
+AKBOLTO:
+    id: 3
+    cn: '螺钉双枪'
+    query: false
+AKBRONCO:
+    id: 4
+    cn: '野马双枪'
+    query: false
+AKJAGARA:
+    id: 5
+    cn: '觉醒双枪'
+    query: false
+AKLATO:
+    id: 6
+    cn: '拉托双枪'
+    query: false
+AKLEX:
+    id: 7
+    cn: '雷克斯双枪'
+    query: false
+AKMAGNUS:
+    id: 8
+    cn: '麦格努斯双枪'
+    query: false
+AKSOMATI:
+    id: 9
+    cn: '轻灵月神双枪'
+    query: false
+AKSTILETTO:
+    id: 10
+    cn: '史提托双枪'
+    query: false
+AKVASTO:
+    id: 11
+    cn: '瓦斯托双枪'
+    query: false
+AKZANI:
+    id: 12
+    cn: '荒谬双枪'
+    query: false
+AMPHIS:
+    id: 13
+    cn: '双头蛇'
+    query: false
+AMPREX:
+    id: 14
+    cn: '安培克斯'
+    query: false
+ANGSTRUM:
+    id: 15
+    cn: '安格斯壮'
+    query: false
+ANKU:
+    id: 16
+    cn: '夺魂死神'
+    query: false
+ANKYROS:
+    id: 17
+    cn: '甲龙双拳'
+    query: false
+ARCAPLASMOR:
+    id: 18
+    cn: '弧电离子枪'
+    query: false
+ARCASCISCO:
+    id: 19
+    cn: '弧电探知者'
+    query: false
+ARCATITRON:
+    id: 20
+    cn: '弧电振子锤'
+    query: false
+ARGONAK:
+    id: 21
+    cn: '氩格纳克'
+    query: false
+ARTAX:
+    id: 22
+    cn: '阿塔克斯'
+    query: false
+ASTILLA:
+    id: 23
+    cn: '碎裂者'
+    query: false
+ATOMOS:
+    id: 24
+    cn: '原子矿融炮'
+    query: false
+ATTERAX:
+    id: 25
+    cn: '阿特拉克斯'
+    query: false
+ATTICA:
+    id: 26
+    cn: '阿提卡'
+    query: false
+AZIMA:
+    id: 27
+    cn: '方位角'
+    query: false
+BALLA:
+    id: 28
+    cn: '宝拉'
+    query: false
+BALLISTICA:
+    id: 29
+    cn: '布里斯提卡'
+    query: false
+BATTACOR:
+    id: 30
+    cn: '武使之力'
+    query: false
+BAZA:
+    id: 31
+    cn: '苍鹰'
+    query: false
+BO:
+    id: 32
+    cn: '玻之武杖'
+    query: false
+BOAR:
+    id: 33
+    cn: '野猪'
+    query: false
+BOLTACE:
+    id: 34
+    cn: '螺钉拐刃'
+    query: false
+BOLTO:
+    id: 35
+    cn: '螺钉手枪'
+    query: false
+BOLTOR:
+    id: 36
+    cn: '螺钉步枪'
+    query: false
+BRAKK:
+    id: 37
+    cn: '布拉克'
+    query: false
+BRATON:
+    id: 38
+    cn: '布莱顿'
+    query: false
+BROKENSCEPTER:
+    id: 39
+    cn: '破损珽杖'
+    query: false
+BROKENWAR:
+    id: 40
+    cn: '破碎的战争之剑'
+    query: false
+BRONCO:
+    id: 41
+    cn: '野马'
+    query: false
+BURSTLASER:
+    id: 42
+    cn: '激光点发'
+    query: false
+BURSTON:
+    id: 43
+    cn: '伯斯顿'
+    query: false
+BUZLOK:
+    id: 44
+    cn: '巴兹火枪'
+    query: false
+CASSOWAR:
+    id: 45
+    cn: '鹤鸵长戟'
+    query: false
+CASTANAS:
+    id: 46
+    cn: '雷爆信标'
+    query: false
+CATCHMOON:
+    id: 47
+    cn: '捕月'
+    query: false
+CAUSTACYST:
+    id: 48
+    cn: '灼蚀变体镰'
+    query: false
+CERAMICDAGGER:
+    id: 49
+    cn: '陶瓷匕首'
+    query: false
+CERATA:
+    id: 50
+    cn: '裸鳃刃'
+    query: false
+CERNOS:
+    id: 51
+    cn: '西诺斯'
+    query: false
+CESTRA:
+    id: 52
+    cn: '锡斯特'
+    query: false
+COBRACRANE:
+    id: 53
+    cn: '眼镜蛇&鹤'
+    query: false
+CONVECTRIX:
+    id: 54
+    cn: '导热聚焦枪'
+    query: false
+CORINTH:
+    id: 55
+    cn: '科林斯'
+    query: false
+CORVAS:
+    id: 56
+    cn: '黑鸦'
+    query: false
+CRONUS:
+    id: 57
+    cn: '克洛诺斯'
+    query: false
+CRYOTRA:
+    id: 58
+    cn: '急冻喷枪'
+    query: false
+CYANEX:
+    id: 59
+    cn: '氰毒'
+    query: false
+CYATH:
+    id: 60
+    cn: '西亚什'
+    query: false
+CYCRON:
+    id: 61
+    cn: '循环离子枪'
+    query: false
+CYNGAS:
+    id: 62
+    cn: '合成燃气炮'
+    query: false
+DAIKYU:
+    id: 63
+    cn: '大久和弓'
+    query: false
+DAKRAPRIME:
+    id: 64
+    cn: '达克拉Prime'
+    query: false
+DARKDAGGER:
+    id: 65
+    cn: '暗黑匕首'
+    query: false
+DARKSPLITSWORD:
+    id: 66
+    cn: '暗黑分合剑'
+    query: false
+DARKSWORD:
+    id: 67
+    cn: '暗黑长剑'
+    query: false
+DECONSTRUCTOR:
+    id: 68
+    cn: '分离'
+    query: false
+DEHTAT:
+    id: 69
+    cn: '德塔特'
+    query: false
+DERA:
+    id: 70
+    cn: '德拉'
+    query: false
+DESPAIR:
+    id: 71
+    cn: '绝望'
+    query: false
+DESTREZA:
+    id: 72
+    cn: '技巧之剑'
+    query: false
+DETHMACHINERIFLE:
+    id: 73
+    cn: '死亡机枪'
+    query: false
+DETRON:
+    id: 74
+    cn: '德特昂'
+    query: false
+DEXDAKRA:
+    id: 75
+    cn: 'Dex达克拉双剑'
+    query: false
+DOKRAHM:
+    id: 76
+    cn: '多克拉姆'
+    query: false
+DRAGONNIKANA:
+    id: 77
+    cn: '龙之侍刃'
+    query: false
+DRAKGOON:
+    id: 78
+    cn: '龙骑兵'
+    query: false
+DREAD:
+    id: 79
+    cn: '恐惧'
+    query: false
+DUALCESTRA:
+    id: 80
+    cn: '锡斯特双枪'
+    query: false
+DUALCLEAVERS:
+    id: 81
+    cn: '斩肉双刀'
+    query: false
+DUALDECURION:
+    id: 82
+    cn: '什长双枪'
+    query: false
+DUALETHER:
+    id: 83
+    cn: '苍穹双剑'
+    query: false
+DUALHEATSWORDS:
+    id: 84
+    cn: '烈焰双剑'
+    query: false
+DUALICHOR:
+    id: 85
+    cn: '恶脓双斧'
+    query: false
+DUALKAMAS:
+    id: 86
+    cn: '双短柄战镰'
+    query: false
+DUALKERES:
+    id: 87
+    cn: '凯瑞斯双刀'
+    query: false
+DUALRAZA:
+    id: 88
+    cn: '锋月双斧'
+    query: false
+DUALSKANA:
+    id: 89
+    cn: '空刃双刀'
+    query: false
+DUALTOXOCYST:
+    id: 90
+    cn: '毒囊双枪'
+    query: false
+DUALZOREN:
+    id: 91
+    cn: '佐伦双斧'
+    query: false
+EMBOLIST:
+    id: 92
+    cn: '安柏勒斯'
+    query: false
+ENDURA:
+    id: 93
+    cn: '三叶坚韧'
+    query: false
+ETHERDAGGERS:
+    id: 94
+    cn: '苍穹匕首'
+    query: false
+ETHERREAPER:
+    id: 95
+    cn: '苍穹死神'
+    query: false
+ETHERSWORD:
+    id: 96
+    cn: '苍穹之剑'
+    query: false
+EUPHONAPRIME:
+    id: 97
+    cn: '悦音Prime'
+    query: false
+EXERGIS:
+    id: 98
+    cn: '晶能放射器'
+    query: false
+FALCOR:
+    id: 99
+    cn: '猎鹰轮'
+    query: false
+FANG:
+    id: 100
+    cn: '狼牙'
+    query: false
+FERROX:
+    id: 101
+    cn: '铁晶磁轨炮'
+    query: false
+FLUCTUS:
+    id: 102
+    cn: '巨浪'
+    query: false
+FLUXRIFLE:
+    id: 103
+    cn: '通量射线步枪'
+    query: false
+FRAGOR:
+    id: 104
+    cn: '重击巨锤'
+    query: false
+FULMIN:
+    id: 105
+    cn: '雷霆'
+    query: false
+FURAX:
+    id: 106
+    cn: '弗拉克斯'
+    query: false
+FURIS:
+    id: 107
+    cn: '盗贼'
+    query: false
+FUSILAI:
+    id: 108
+    cn: '齐射玻刃'
+    query: false
+GALATINE:
+    id: 109
+    cn: '迦伦提恩'
+    query: false
+GALVACORD:
+    id: 110
+    cn: '电流刺索'
+    query: false
+GAMMACOR:
+    id: 111
+    cn: '咖玛腕甲枪'
+    query: false
+GAZALMACHETE:
+    id: 112
+    cn: '加扎勒反曲刀'
+    query: false
+GAZE:
+    id: 113
+    cn: '凝目'
+    query: false
+GLAIVE:
+    id: 114
+    cn: '战刃'
+    query: false
+GLAXION:
+    id: 115
+    cn: '冷冻光束步枪'
+    query: false
+GORGON:
+    id: 116
+    cn: '蛇发女妖'
+    query: false
+GRAKATA:
+    id: 117
+    cn: '葛拉卡达'
+    query: false
+GRAM:
+    id: 118
+    cn: '格拉姆'
+    query: false
+GRATTLER:
+    id: 119
+    cn: '葛拉特勒'
+    query: false
+GRINLOK:
+    id: 120
+    cn: '葛恩火枪'
+    query: false
+GUANDAO:
+    id: 121
+    cn: '关刀'
+    query: false
+GUNSEN:
+    id: 122
+    cn: '军扇'
+    query: false
+HALIKAR:
+    id: 123
+    cn: '哈利卡'
+    query: false
+HARPAK:
+    id: 124
+    cn: '哈帕克'
+    query: false
+HATE:
+    id: 125
+    cn: '憎恨'
+    query: false
+HEATDAGGER:
+    id: 126
+    cn: '烈焰短剑'
+    query: false
+HEATSWORD:
+    id: 127
+    cn: '烈焰双剑'
+    query: false
+HEK:
+    id: 128
+    cn: '海克'
+    query: false
+HELIOCOR:
+    id: 129
+    cn: '赫利俄光锤'
+    query: false
+HEMA:
+    id: 130
+    cn: '血肢'
+    query: false
+HIKOU:
+    id: 131
+    cn: '飞扬'
+    query: false
+HIND:
+    id: 132
+    cn: '雌鹿'
+    query: false
+HIRUDO:
+    id: 133
+    cn: '蚂蟥'
+    query: false
+HYSTRIX:
+    id: 134
+    cn: '豪猪'
+    query: false
+IGNIS:
+    id: 135
+    cn: '伊格尼斯'
+    query: true
+IMPERATOR:
+    id: 136
+    cn: '凯旋将军'
+    query: false
+JATKITTAG:
+    id: 137
+    cn: '喷射战锤'
+    query: false
+JATKUSAR:
+    id: 138
+    cn: '喷射锁镰'
+    query: false
+JAVLOK:
+    id: 139
+    cn: '燃焰标枪'
+    query: false
+JAWSWORD:
+    id: 140
+    cn: '蛇颚刀'
+    query: false
+KAMA:
+    id: 141
+    cn: '短柄战镰'
+    query: false
+KARAK:
+    id: 142
+    cn: '卡拉克'
+    query: false
+KARYST:
+    id: 143
+    cn: '凯洛斯特'
+    query: false
+KESHEG:
+    id: 144
+    cn: '怯薛'
+    query: false
+KESTREL:
+    id: 145
+    cn: '红隼'
+    query: false
+KNELL:
+    id: 146
+    cn: '丧钟'
+    query: false
+KOGAKE:
+    id: 147
+    cn: '科加基'
+    query: false
+KOHM:
+    id: 148
+    cn: '寇恩热能枪'
+    query: false
+KOHMAK:
+    id: 149
+    cn: '寇恩霰机枪'
+    query: false
+KOMOREX:
+    id: 150
+    cn: '猛毒'
+    query: false
+KORRUDO:
+    id: 151
+    cn: '库鲁多'
+    query: false
+KRAKEN:
+    id: 152
+    cn: '北海巨妖'
+    query: false
+KRESKA:
+    id: 153
+    cn: '直镐'
+    query: false
+KROHKUR:
+    id: 154
+    cn: '克鲁古尔'
+    query: false
+KRONEN:
+    id: 155
+    cn: '皇家拐刃'
+    query: false
+KRONSH:
+    id: 156
+    cn: '客隆什'
+    query: false
+KULSTAR:
+    id: 157
+    cn: '杀星'
+    query: false
+KUNAI:
+    id: 158
+    cn: '苦无'
+    query: false
+LACERA:
+    id: 159
+    cn: '悲痛之刃'
+    query: false
+LANKA:
+    id: 160
+    cn: '兰卡'
+    query: false
+LARKSPUR:
+    id: 161
+    cn: '翠雀'
+    query: false
+LASERRIFLE:
+    id: 162
+    cn: '激光步枪'
+    query: false
+LATO:
+    id: 163
+    cn: '拉托'
+    query: false
+LATRON:
+    id: 164
+    cn: '拉特昂'
+    query: false
+LECTA:
+    id: 165
+    cn: '勒克塔'
+    query: false
+LENZ:
+    id: 166
+    cn: '楞次弓'
+    query: false
+LESION:
+    id: 167
+    cn: '病变'
+    query: false
+LEX:
+    id: 168
+    cn: '雷克斯'
+    query: false
+MACHETE:
+    id: 169
+    cn: '马谢特砍刀'
+    query: false
+MAGISTAR:
+    id: 170
+    cn: '执法者'
+    query: false
+MAGNUS:
+    id: 171
+    cn: '麦格努斯'
+    query: false
+MARELOK:
+    id: 172
+    cn: '玛瑞火枪'
+    query: false
+MEWAN:
+    id: 173
+    cn: '密丸'
+    query: false
+MIOS:
+    id: 174
+    cn: '牝狮神'
+    query: false
+MIRE:
+    id: 175
+    cn: '米尔'
+    query: false
+MITER:
+    id: 176
+    cn: '米特尔'
+    query: false
+MULTRON:
+    id: 177
+    cn: '多连穿甲枪'
+    query: false
+MUTALISTCERNOS:
+    id: 178
+    cn: '异融西诺斯'
+    query: false
+MUTALISTQUANTA:
+    id: 179
+    cn: '异融量子枪'
+    query: false
+NAGANTAKA:
+    id: 180
+    cn: '噬蛇弩'
+    query: false
+NAMISKYLA:
+    id: 181
+    cn: '海波斯库拉对剑'
+    query: false
+NAMISOLO:
+    id: 182
+    cn: '海波单剑'
+    query: false
+NIKANA:
+    id: 183
+    cn: '侍刃'
+    query: false
+NINKONDI:
+    id: 184
+    cn: '降灵追猎者'
+    query: false
+NUKOR:
+    id: 185
+    cn: '努寇微波枪'
+    query: false
+OBEX:
+    id: 186
+    cn: '奥比克斯'
+    query: false
+OCUCOR:
+    id: 187
+    cn: '视使之触'
+    query: false
+OGRIS:
+    id: 188
+    cn: '食人女魔'
+    query: false
+OHMA:
+    id: 189
+    cn: '欧玛'
+    query: false
+OKINA:
+    id: 190
+    cn: '翁'
+    query: false
+OOLTHA:
+    id: 191
+    cn: '乌尔萨'
+    query: false
+OPTICOR:
+    id: 192
+    cn: '奥堤克光子枪'
+    query: false
+ORTHOS:
+    id: 193
+    cn: '欧特鲁斯'
+    query: false
+ORVIUS:
+    id: 194
+    cn: '灵枢'
+    query: false
+PANDERO:
+    id: 195
+    cn: '手鼓'
+    query: false
+PANGOLINSWORD:
+    id: 196
+    cn: '鲮鲤剑'
+    query: false
+PANTHERA:
+    id: 197
+    cn: '猎豹'
+    query: false
+PARACESIS:
+    id: 198
+    cn: '心智之殁'
+    query: false
+PARACYST:
+    id: 199
+    cn: '附肢寄生者'
+    query: false
+PARIS:
+    id: 200
+    cn: '帕里斯'
+    query: false
+PENTA:
+    id: 201
+    cn: '潘塔'
+    query: false
+PHAEDRA:
+    id: 202
+    cn: '菲德菈'
+    query: false
+PHAGE:
+    id: 203
+    cn: '噬菌者'
+    query: false
+PHANTASMA:
+    id: 204
+    cn: '幻离子'
+    query: false
+PLAGUEKEEWAR:
+    id: 205
+    cn: '瘟疫奇沃'
+    query: false
+PLAGUEKRIPATH:
+    id: 206
+    cn: '瘟疫克里帕丝'
+    query: false
+PLASMASWORD:
+    id: 207
+    cn: '等离子长剑'
+    query: false
+PLINX:
+    id: 208
+    cn: '漫射者'
+    query: false
+POX:
+    id: 209
+    cn: '脓痘'
+    query: false
+PROVA:
+    id: 210
+    cn: '普罗沃'
+    query: false
+PUPACYST:
+    id: 211
+    cn: '毒囊骨茧'
+    query: false
+PYRANA:
+    id: 212
+    cn: '食人鱼'
+    query: false
+QUANTA:
+    id: 213
+    cn: '量子切割器'
+    query: false
+QUARTAKK:
+    id: 214
+    cn: '夸塔克'
+    query: false
+RABVEE:
+    id: 215
+    cn: '拉比威'
+    query: false
+RATTLEGUTS:
+    id: 216
+    cn: '响胆'
+    query: false
+REAPERPRIME:
+    id: 217
+    cn: '收割者Prime'
+    query: false
+REDEEMER:
+    id: 218
+    cn: '救赎者'
+    query: false
+RIPKAS:
+    id: 219
+    cn: '锐卡斯'
+    query: false
+RUBICO:
+    id: 220
+    cn: '绝路'
+    query: false
+SARPA:
+    id: 221
+    cn: '蛇刃'
+    query: false
+SCINDO:
+    id: 222
+    cn: '分裂斩斧'
+    query: false
+SCOLIAC:
+    id: 223
+    cn: '嵴椎节鞭'
+    query: false
+SCOURGE:
+    id: 224
+    cn: '祸根'
+    query: false
+SEER:
+    id: 225
+    cn: '预言者'
+    query: false
+SEPFAHN:
+    id: 226
+    cn: '瑟普梵'
+    query: false
+SERRO:
+    id: 227
+    cn: '电能斩锯'
+    query: false
+SHAKU:
+    id: 228
+    cn: '双节尺棍'
+    query: false
+SHEEV:
+    id: 229
+    cn: '希芙'
+    query: false
+SIBEAR:
+    id: 230
+    cn: '西伯利亚冰锤'
+    query: false
+SICARUS:
+    id: 231
+    cn: '暗杀者'
+    query: false
+SIGMAOCTANTIS:
+    id: 232
+    cn: '西格玛&南极座'
+    query: false
+SILVAAEGIS:
+    id: 233
+    cn: '席瓦&神盾'
+    query: false
+SIMULOR:
+    id: 234
+    cn: '重力奇点拟成枪'
+    query: false
+SKANA:
+    id: 235
+    cn: '空刃'
+    query: false
+SKIAJATI:
+    id: 236
+    cn: '影生'
+    query: false
+SNIPETRON:
+    id: 237
+    cn: '狙击特昂'
+    query: false
+SOBEK:
+    id: 238
+    cn: '鳄神'
+    query: false
+SOMA:
+    id: 239
+    cn: '月神'
+    query: false
+SONICOR:
+    id: 240
+    cn: '超音波冲击枪'
+    query: false
+SPECTRA:
+    id: 241
+    cn: '光谱切割器'
+    query: false
+SPIRA:
+    id: 242
+    cn: '旋刃飞刀'
+    query: false
+STATICOR:
+    id: 243
+    cn: '静电能量导引枪'
+    query: false
+STINGER:
+    id: 244
+    cn: '毒刺'
+    query: false
+STRADAVAR:
+    id: 245
+    cn: '斯特拉迪瓦'
+    query: false
+STRUN:
+    id: 246
+    cn: '斯特朗'
+    query: false
+STUBBA:
+    id: 247
+    cn: '史度巴'
+    query: false
+STUG:
+    id: 248
+    cn: '史特克'
+    query: false
+SUPRA:
+    id: 249
+    cn: '苏普拉'
+    query: false
+SWEEPER:
+    id: 250
+    cn: '扫除者'
+    query: false
+SYBARIS:
+    id: 251
+    cn: '席芭莉丝'
+    query: false
+SYDON:
+    id: 252
+    cn: '恶龙'
+    query: false
+SYNAPSE:
+    id: 253
+    cn: '突触生化枪'
+    query: false
+TALONS:
+    id: 254
+    cn: '鹰爪'
+    query: false
+TATSU:
+    id: 255
+    cn: '龙辰'
+    query: false
+TAZICOR:
+    id: 256
+    cn: '泰瑟步枪'
+    query: false
+TEKKO:
+    id: 257
+    cn: '铁钩手甲'
+    query: false
+TENORA:
+    id: 258
+    cn: '双簧管'
+    query: false
+TETRA:
+    id: 259
+    cn: '特拉'
+    query: false
+TIBERON:
+    id: 260
+    cn: '狂鲨'
+    query: false
+TIGRIS:
+    id: 261
+    cn: '猛虎'
+    query: false
+TIPEDO:
+    id: 262
+    cn: '提佩多'
+    query: false
+TOMBFINGER:
+    id: 263
+    cn: '墓指'
+    query: false
+TONBO:
+    id: 264
+    cn: '蜻蜓薙'
+    query: false
+TONKOR:
+    id: 265
+    cn: '征服榴炮'
+    query: false
+TORID:
+    id: 266
+    cn: '托里德'
+    query: false
+TWINBASOLK:
+    id: 267
+    cn: '双子巴萨克'
+    query: false
+TWINGRAKATAS:
+    id: 268
+    cn: '双子葛拉卡达'
+    query: false
+TWINGREMLINS:
+    id: 269
+    cn: '双子小精灵'
+    query: false
+TWINKOHMAK:
+    id: 270
+    cn: '双子寇恩霰机枪'
+    query: false
+TWINKROHKUR:
+    id: 271
+    cn: '双子克鲁古尔'
+    query: false
+TWINROGGA:
+    id: 272
+    cn: '双子罗格'
+    query: false
+TWINVIPERS:
+    id: 273
+    cn: '双子蝰蛇'
+    query: false
+TYSIS:
+    id: 274
+    cn: '啐沫者'
+    query: false
+VASTO:
+    id: 275
+    cn: '瓦斯托'
+    query: false
+VECTIS:
+    id: 276
+    cn: '守望者'
+    query: false
+VELDT:
+    id: 277
+    cn: '草原猎手'
+    query: false
+VELOCITUS:
+    id: 278
+    cn: '极速电磁步枪'
+    query: false
+VENKA:
+    id: 279
+    cn: '凯旋之爪'
+    query: false
+VIPER:
+    id: 280
+    cn: '蝰蛇'
+    query: false
+VOLNUS:
+    id: 281
+    cn: '创伤'
+    query: false
+VULCAX:
+    id: 282
+    cn: '金工火舌'
+    query: false
+VULKAR:
+    id: 283
+    cn: '金工火神'
+    query: false
+VULKLOK:
+    id: 284
+    cn: '金工火枪'
+    query: false
+WAR:
+    id: 285
+    cn: '战争之剑'
+    query: false
+WOLFSLEDGE:
+    id: 286
+    cn: '恶狼战锤'
+    query: false
+ZAKTI:
+    id: 287
+    cn: '毒芽'
+    query: false
+ZARR:
+    id: 288
+    cn: '沙皇'
+    query: false
+ZENISTAR:
+    id: 289
+    cn: '天顶之星'
+    query: false
+ZENITH:
+    id: 290
+    cn: '天穹之顶'
+    query: false
+ZHUGE:
+    id: 291
+    cn: '诸葛连弩'
+    query: false
+ZYLOK:
+    id: 292
+    cn: '席尔火枪'
+    query: false
