@@ -55,8 +55,6 @@ for weapons_name in setups:
     ids = get_attr_id(attrs=attrs, weapon_type=weapons[weapons_name]['type'], setup=setups[weapons_name])
     # 获取uuid请求url
     uuid_url = get_uuid_url(weapon_id=weapons[weapons_name]['id'], ids=ids)
-    print(uuid_url)
-    exit()
 
     # 请求紫卡uuid列表并强转list
     uuid_list = GetHttp(url=uuid_url).json_content
@@ -92,6 +90,5 @@ for weapons_name in setups:
         # 添加价格信息
         result[weapons_name]['price'] = riven_uuid['price']
         result[weapons_name]['preset_price'] = weapons_price
-        print(result)
-        exit()
+print(result)
 pass
