@@ -1,0 +1,7 @@
+IGNIS:
+  master:
+    - CriticalDamage
+    - CriticalChance
+  master_curse:
+    - Zoom
+  price: 20000

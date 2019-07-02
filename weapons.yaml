@@ -1,0 +1,1465 @@
+ACKBRUNT:
+  cn: 认知&冲击
+  id: 0
+  query: false
+  type: melee
+ACRID:
+  cn: 阿克里德
+  id: 1
+  query: false
+  type: vice
+AFURIS:
+  cn: 盗贼双枪
+  id: 2
+  query: false
+  type: vice
+AKBOLTO:
+  cn: 螺钉双枪
+  id: 3
+  query: false
+  type: vice
+AKBRONCO:
+  cn: 野马双枪
+  id: 4
+  query: false
+  type: vice
+AKJAGARA:
+  cn: 觉醒双枪
+  id: 5
+  query: false
+  type: vice
+AKLATO:
+  cn: 拉托双枪
+  id: 6
+  query: false
+  type: vice
+AKLEX:
+  cn: 雷克斯双枪
+  id: 7
+  query: false
+  type: vice
+AKMAGNUS:
+  cn: 麦格努斯双枪
+  id: 8
+  query: false
+  type: vice
+AKSOMATI:
+  cn: 轻灵月神双枪
+  id: 9
+  query: false
+  type: vice
+AKSTILETTO:
+  cn: 史提托双枪
+  id: 10
+  query: false
+  type: vice
+AKVASTO:
+  cn: 瓦斯托双枪
+  id: 11
+  query: false
+  type: vice
+AKZANI:
+  cn: 荒谬双枪
+  id: 12
+  query: false
+  type: vice
+AMPHIS:
+  cn: 双头蛇
+  id: 13
+  query: false
+  type: melee
+AMPREX:
+  cn: 安培克斯
+  id: 14
+  query: false
+  type: master
+ANGSTRUM:
+  cn: 安格斯壮
+  id: 15
+  query: false
+  type: vice
+ANKU:
+  cn: 夺魂死神
+  id: 16
+  query: false
+  type: melee
+ANKYROS:
+  cn: 甲龙双拳
+  id: 17
+  query: false
+  type: melee
+ARCAPLASMOR:
+  cn: 弧电离子枪
+  id: 18
+  query: false
+  type: master
+ARCASCISCO:
+  cn: 弧电探知者
+  id: 19
+  query: false
+  type: vice
+ARCATITRON:
+  cn: 弧电振子锤
+  id: 20
+  query: false
+  type: melee
+ARGONAK:
+  cn: 氩格纳克
+  id: 21
+  query: false
+  type: master
+ARTAX:
+  cn: 阿塔克斯
+  id: 22
+  query: false
+  type: bot
+ASTILLA:
+  cn: 碎裂者
+  id: 23
+  query: false
+  type: master
+ATOMOS:
+  cn: 原子矿融炮
+  id: 24
+  query: false
+  type: vice
+ATTERAX:
+  cn: 阿特拉克斯
+  id: 25
+  query: false
+  type: melee
+ATTICA:
+  cn: 阿提卡
+  id: 26
+  query: false
+  type: master
+AZIMA:
+  cn: 方位角
+  id: 27
+  query: false
+  type: vice
+BALLA:
+  cn: 宝拉
+  id: 28
+  query: false
+  type: melee
+BALLISTICA:
+  cn: 布里斯提卡
+  id: 29
+  query: false
+  type: vice
+BATTACOR:
+  cn: 武使之力
+  id: 30
+  query: false
+  type: master
+BAZA:
+  cn: 苍鹰
+  id: 31
+  query: false
+  type: master
+BO:
+  cn: 玻之武杖
+  id: 32
+  query: false
+  type: melee
+BOAR:
+  cn: 野猪
+  id: 33
+  query: false
+  type: master
+BOLTACE:
+  cn: 螺钉拐刃
+  id: 34
+  query: false
+  type: melee
+BOLTO:
+  cn: 螺钉手枪
+  id: 35
+  query: false
+  type: vice
+BOLTOR:
+  cn: 螺钉步枪
+  id: 36
+  query: false
+  type: master
+BRAKK:
+  cn: 布拉克
+  id: 37
+  query: false
+  type: vice
+BRATON:
+  cn: 布莱顿
+  id: 38
+  query: false
+  type: master
+BROKENSCEPTER:
+  cn: 破损珽杖
+  id: 39
+  query: false
+  type: melee
+BROKENWAR:
+  cn: 破碎的战争之剑
+  id: 40
+  query: false
+  type: melee
+BRONCO:
+  cn: 野马
+  id: 41
+  query: false
+  type: vice
+BURSTLASER:
+  cn: 激光点发
+  id: 42
+  query: false
+  type: bot
+BURSTON:
+  cn: 伯斯顿
+  id: 43
+  query: false
+  type: master
+BUZLOK:
+  cn: 巴兹火枪
+  id: 44
+  query: false
+  type: master
+CASSOWAR:
+  cn: 鹤鸵长戟
+  id: 45
+  query: false
+  type: melee
+CASTANAS:
+  cn: 雷爆信标
+  id: 46
+  query: false
+  type: vice
+CATCHMOON:
+  cn: 捕月
+  id: 47
+  query: false
+  type: vice
+CAUSTACYST:
+  cn: 灼蚀变体镰
+  id: 48
+  query: false
+  type: melee
+CERAMICDAGGER:
+  cn: 陶瓷匕首
+  id: 49
+  query: false
+  type: melee
+CERATA:
+  cn: 裸鳃刃
+  id: 50
+  query: false
+  type: melee
+CERNOS:
+  cn: 西诺斯
+  id: 51
+  query: false
+  type: master
+CESTRA:
+  cn: 锡斯特
+  id: 52
+  query: false
+  type: vice
+COBRACRANE:
+  cn: 眼镜蛇&鹤
+  id: 53
+  query: false
+  type: melee
+CONVECTRIX:
+  cn: 导热聚焦枪
+  id: 54
+  query: false
+  type: master
+CORINTH:
+  cn: 科林斯
+  id: 55
+  query: false
+  type: master
+CORVAS:
+  cn: 黑鸦
+  id: 56
+  query: false
+  type: arc
+CRONUS:
+  cn: 克洛诺斯
+  id: 57
+  query: false
+  type: melee
+CRYOTRA:
+  cn: 急冻喷枪
+  id: 58
+  query: false
+  type: bot
+CYANEX:
+  cn: 氰毒
+  id: 59
+  query: false
+  type: vice
+CYATH:
+  cn: 西亚什
+  id: 60
+  query: false
+  type: melee
+CYCRON:
+  cn: 循环离子枪
+  id: 61
+  query: false
+  type: vice
+CYNGAS:
+  cn: 合成燃气炮
+  id: 62
+  query: false
+  type: arc
+DAIKYU:
+  cn: 大久和弓
+  id: 63
+  query: false
+  type: master
+DAKRAPRIME:
+  cn: 达克拉Prime
+  id: 64
+  query: false
+  type: melee
+DARKDAGGER:
+  cn: 暗黑匕首
+  id: 65
+  query: false
+  type: melee
+DARKSPLITSWORD:
+  cn: 暗黑分合剑
+  id: 66
+  query: false
+  type: melee
+DARKSWORD:
+  cn: 暗黑长剑
+  id: 67
+  query: false
+  type: melee
+DECONSTRUCTOR:
+  cn: 分离
+  id: 68
+  query: false
+  type: bot
+DEHTAT:
+  cn: 德塔特
+  id: 69
+  query: false
+  type: melee
+DERA:
+  cn: 德拉
+  id: 70
+  query: false
+  type: master
+DESPAIR:
+  cn: 绝望
+  id: 71
+  query: false
+  type: vice
+DESTREZA:
+  cn: 技巧之剑
+  id: 72
+  query: false
+  type: melee
+DETHMACHINERIFLE:
+  cn: 死亡机枪
+  id: 73
+  query: false
+  type: bot
+DETRON:
+  cn: 德特昂
+  id: 74
+  query: false
+  type: vice
+DEXDAKRA:
+  cn: Dex达克拉双剑
+  id: 75
+  query: false
+  type: melee
+DOKRAHM:
+  cn: 多克拉姆
+  id: 76
+  query: false
+  type: melee
+DRAGONNIKANA:
+  cn: 龙之侍刃
+  id: 77
+  query: false
+  type: melee
+DRAKGOON:
+  cn: 龙骑兵
+  id: 78
+  query: false
+  type: master
+DREAD:
+  cn: 恐惧
+  id: 79
+  query: false
+  type: master
+DUALCESTRA:
+  cn: 锡斯特双枪
+  id: 80
+  query: false
+  type: vice
+DUALCLEAVERS:
+  cn: 斩肉双刀
+  id: 81
+  query: false
+  type: melee
+DUALDECURION:
+  cn: 什长双枪
+  id: 82
+  query: false
+  type: arc
+DUALETHER:
+  cn: 苍穹双剑
+  id: 83
+  query: false
+  type: melee
+DUALHEATSWORDS:
+  cn: 烈焰双剑
+  id: 84
+  query: false
+  type: melee
+DUALICHOR:
+  cn: 恶脓双斧
+  id: 85
+  query: false
+  type: melee
+DUALKAMAS:
+  cn: 双短柄战镰
+  id: 86
+  query: false
+  type: melee
+DUALKERES:
+  cn: 凯瑞斯双刀
+  id: 87
+  query: false
+  type: melee
+DUALRAZA:
+  cn: 锋月双斧
+  id: 88
+  query: false
+  type: melee
+DUALSKANA:
+  cn: 空刃双刀
+  id: 89
+  query: false
+  type: melee
+DUALTOXOCYST:
+  cn: 毒囊双枪
+  id: 90
+  query: false
+  type: vice
+DUALZOREN:
+  cn: 佐伦双斧
+  id: 91
+  query: false
+  type: melee
+EMBOLIST:
+  cn: 安柏勒斯
+  id: 92
+  query: false
+  type: vice
+ENDURA:
+  cn: 三叶坚韧
+  id: 93
+  query: false
+  type: melee
+ETHERDAGGERS:
+  cn: 苍穹匕首
+  id: 94
+  query: false
+  type: melee
+ETHERREAPER:
+  cn: 苍穹死神
+  id: 95
+  query: false
+  type: melee
+ETHERSWORD:
+  cn: 苍穹之剑
+  id: 96
+  query: false
+  type: melee
+EUPHONAPRIME:
+  cn: 悦音Prime
+  id: 97
+  query: false
+  type: vice
+EXERGIS:
+  cn: 晶能放射器
+  id: 98
+  query: false
+  type: master
+FALCOR:
+  cn: 猎鹰轮
+  id: 99
+  query: false
+  type: melee
+FANG:
+  cn: 狼牙
+  id: 100
+  query: false
+  type: melee
+FERROX:
+  cn: 铁晶磁轨炮
+  id: 101
+  query: false
+  type: master
+FLUCTUS:
+  cn: 巨浪
+  id: 102
+  query: false
+  type: arc
+FLUXRIFLE:
+  cn: 通量射线步枪
+  id: 103
+  query: false
+  type: master
+FRAGOR:
+  cn: 重击巨锤
+  id: 104
+  query: false
+  type: melee
+FULMIN:
+  cn: 雷霆
+  id: 105
+  query: false
+  type: master
+FURAX:
+  cn: 弗拉克斯
+  id: 106
+  query: false
+  type: melee
+FURIS:
+  cn: 盗贼
+  id: 107
+  query: false
+  type: vice
+FUSILAI:
+  cn: 齐射玻刃
+  id: 108
+  query: false
+  type: vice
+GALATINE:
+  cn: 迦伦提恩
+  id: 109
+  query: false
+  type: melee
+GALVACORD:
+  cn: 电流刺索
+  id: 110
+  query: false
+  type: melee
+GAMMACOR:
+  cn: 咖玛腕甲枪
+  id: 111
+  query: false
+  type: vice
+GAZALMACHETE:
+  cn: 加扎勒反曲刀
+  id: 112
+  query: false
+  type: melee
+GAZE:
+  cn: 凝目
+  id: 113
+  query: false
+  type: vice
+GLAIVE:
+  cn: 战刃
+  id: 114
+  query: false
+  type: melee
+GLAXION:
+  cn: 冷冻光束步枪
+  id: 115
+  query: false
+  type: master
+GORGON:
+  cn: 蛇发女妖
+  id: 116
+  query: false
+  type: master
+GRAKATA:
+  cn: 葛拉卡达
+  id: 117
+  query: false
+  type: master
+GRAM:
+  cn: 格拉姆
+  id: 118
+  query: false
+  type: melee
+GRATTLER:
+  cn: 葛拉特勒
+  id: 119
+  query: false
+  type: arc
+GRINLOK:
+  cn: 葛恩火枪
+  id: 120
+  query: false
+  type: master
+GUANDAO:
+  cn: 关刀
+  id: 121
+  query: false
+  type: melee
+GUNSEN:
+  cn: 军扇
+  id: 122
+  query: false
+  type: melee
+HALIKAR:
+  cn: 哈利卡
+  id: 123
+  query: false
+  type: melee
+HARPAK:
+  cn: 哈帕克
+  id: 124
+  query: false
+  type: master
+HATE:
+  cn: 憎恨
+  id: 125
+  query: false
+  type: melee
+HEATDAGGER:
+  cn: 烈焰短剑
+  id: 126
+  query: false
+  type: melee
+HEATSWORD:
+  cn: 烈焰双剑
+  id: 127
+  query: false
+  type: melee
+HEK:
+  cn: 海克
+  id: 128
+  query: false
+  type: master
+HELIOCOR:
+  cn: 赫利俄光锤
+  id: 129
+  query: false
+  type: melee
+HEMA:
+  cn: 血肢
+  id: 130
+  query: false
+  type: master
+HIKOU:
+  cn: 飞扬
+  id: 131
+  query: false
+  type: vice
+HIND:
+  cn: 雌鹿
+  id: 132
+  query: false
+  type: master
+HIRUDO:
+  cn: 蚂蟥
+  id: 133
+  query: false
+  type: melee
+HYSTRIX:
+  cn: 豪猪
+  id: 134
+  query: false
+  type: vice
+IGNIS:
+  cn: 伊格尼斯
+  id: 135
+  query: true
+  type: master
+IMPERATOR:
+  cn: 凯旋将军
+  id: 136
+  query: false
+  type: arc
+JATKITTAG:
+  cn: 喷射战锤
+  id: 137
+  query: false
+  type: melee
+JATKUSAR:
+  cn: 喷射锁镰
+  id: 138
+  query: false
+  type: melee
+JAVLOK:
+  cn: 燃焰标枪
+  id: 139
+  query: false
+  type: master
+JAWSWORD:
+  cn: 蛇颚刀
+  id: 140
+  query: false
+  type: melee
+KAMA:
+  cn: 短柄战镰
+  id: 141
+  query: false
+  type: melee
+KARAK:
+  cn: 卡拉克
+  id: 142
+  query: false
+  type: master
+KARYST:
+  cn: 凯洛斯特
+  id: 143
+  query: false
+  type: melee
+KESHEG:
+  cn: 怯薛
+  id: 144
+  query: false
+  type: melee
+KESTREL:
+  cn: 红隼
+  id: 145
+  query: false
+  type: melee
+KNELL:
+  cn: 丧钟
+  id: 146
+  query: false
+  type: vice
+KOGAKE:
+  cn: 科加基
+  id: 147
+  query: false
+  type: melee
+KOHM:
+  cn: 寇恩热能枪
+  id: 148
+  query: false
+  type: master
+KOHMAK:
+  cn: 寇恩霰机枪
+  id: 149
+  query: false
+  type: vice
+KOMOREX:
+  cn: 猛毒
+  id: 150
+  query: false
+  type: master
+KORRUDO:
+  cn: 库鲁多
+  id: 151
+  query: false
+  type: melee
+KRAKEN:
+  cn: 北海巨妖
+  id: 152
+  query: false
+  type: vice
+KRESKA:
+  cn: 直镐
+  id: 153
+  query: false
+  type: melee
+KROHKUR:
+  cn: 克鲁古尔
+  id: 154
+  query: false
+  type: melee
+KRONEN:
+  cn: 皇家拐刃
+  id: 155
+  query: false
+  type: melee
+KRONSH:
+  cn: 客隆什
+  id: 156
+  query: false
+  type: melee
+KULSTAR:
+  cn: 杀星
+  id: 157
+  query: false
+  type: vice
+KUNAI:
+  cn: 苦无
+  id: 158
+  query: false
+  type: vice
+LACERA:
+  cn: 悲痛之刃
+  id: 159
+  query: false
+  type: melee
+LANKA:
+  cn: 兰卡
+  id: 160
+  query: false
+  type: master
+LARKSPUR:
+  cn: 翠雀
+  id: 161
+  query: false
+  type: arc
+LASERRIFLE:
+  cn: 激光步枪
+  id: 162
+  query: false
+  type: bot
+LATO:
+  cn: 拉托
+  id: 163
+  query: false
+  type: vice
+LATRON:
+  cn: 拉特昂
+  id: 164
+  query: false
+  type: master
+LECTA:
+  cn: 勒克塔
+  id: 165
+  query: false
+  type: melee
+LENZ:
+  cn: 楞次弓
+  id: 166
+  query: false
+  type: master
+LESION:
+  cn: 病变
+  id: 167
+  query: false
+  type: melee
+LEX:
+  cn: 雷克斯
+  id: 168
+  query: false
+  type: vice
+MACHETE:
+  cn: 马谢特砍刀
+  id: 169
+  query: false
+  type: melee
+MAGISTAR:
+  cn: 执法者
+  id: 170
+  query: false
+  type: melee
+MAGNUS:
+  cn: 麦格努斯
+  id: 171
+  query: false
+  type: vice
+MARELOK:
+  cn: 玛瑞火枪
+  id: 172
+  query: false
+  type: vice
+MEWAN:
+  cn: 密丸
+  id: 173
+  query: false
+  type: melee
+MIOS:
+  cn: 牝狮神
+  id: 174
+  query: false
+  type: melee
+MIRE:
+  cn: 米尔
+  id: 175
+  query: false
+  type: melee
+MITER:
+  cn: 米特尔
+  id: 176
+  query: false
+  type: master
+MULTRON:
+  cn: 多连穿甲枪
+  id: 177
+  query: false
+  type: bot
+MUTALISTCERNOS:
+  cn: 异融西诺斯
+  id: 178
+  query: false
+  type: master
+MUTALISTQUANTA:
+  cn: 异融量子枪
+  id: 179
+  query: false
+  type: master
+NAGANTAKA:
+  cn: 噬蛇弩
+  id: 180
+  query: false
+  type: master
+NAMISKYLA:
+  cn: 海波斯库拉对剑
+  id: 181
+  query: false
+  type: melee
+NAMISOLO:
+  cn: 海波单剑
+  id: 182
+  query: false
+  type: melee
+NIKANA:
+  cn: 侍刃
+  id: 183
+  query: false
+  type: melee
+NINKONDI:
+  cn: 降灵追猎者
+  id: 184
+  query: false
+  type: melee
+NUKOR:
+  cn: 努寇微波枪
+  id: 185
+  query: false
+  type: vice
+OBEX:
+  cn: 奥比克斯
+  id: 186
+  query: false
+  type: melee
+OCUCOR:
+  cn: 视使之触
+  id: 187
+  query: false
+  type: vice
+OGRIS:
+  cn: 食人女魔
+  id: 188
+  query: false
+  type: master
+OHMA:
+  cn: 欧玛
+  id: 189
+  query: false
+  type: melee
+OKINA:
+  cn: 翁
+  id: 190
+  query: false
+  type: melee
+OOLTHA:
+  cn: 乌尔萨
+  id: 191
+  query: false
+  type: melee
+OPTICOR:
+  cn: 奥堤克光子枪
+  id: 192
+  query: false
+  type: master
+ORTHOS:
+  cn: 欧特鲁斯
+  id: 193
+  query: false
+  type: melee
+ORVIUS:
+  cn: 灵枢
+  id: 194
+  query: false
+  type: melee
+PANDERO:
+  cn: 手鼓
+  id: 195
+  query: false
+  type: vice
+PANGOLINSWORD:
+  cn: 鲮鲤剑
+  id: 196
+  query: false
+  type: melee
+PANTHERA:
+  cn: 猎豹
+  id: 197
+  query: false
+  type: master
+PARACESIS:
+  cn: 心智之殁
+  id: 198
+  query: false
+  type: melee
+PARACYST:
+  cn: 附肢寄生者
+  id: 199
+  query: false
+  type: master
+PARIS:
+  cn: 帕里斯
+  id: 200
+  query: false
+  type: master
+PENTA:
+  cn: 潘塔
+  id: 201
+  query: false
+  type: master
+PHAEDRA:
+  cn: 菲德菈
+  id: 202
+  query: false
+  type: arc
+PHAGE:
+  cn: 噬菌者
+  id: 203
+  query: false
+  type: master
+PHANTASMA:
+  cn: 幻离子
+  id: 204
+  query: false
+  type: master
+PLAGUEKEEWAR:
+  cn: 瘟疫奇沃
+  id: 205
+  query: false
+  type: melee
+PLAGUEKRIPATH:
+  cn: 瘟疫克里帕丝
+  id: 206
+  query: false
+  type: melee
+PLASMASWORD:
+  cn: 等离子长剑
+  id: 207
+  query: false
+  type: melee
+PLINX:
+  cn: 漫射者
+  id: 208
+  query: false
+  type: vice
+POX:
+  cn: 脓痘
+  id: 209
+  query: false
+  type: vice
+PROVA:
+  cn: 普罗沃
+  id: 210
+  query: false
+  type: melee
+PUPACYST:
+  cn: 毒囊骨茧
+  id: 211
+  query: false
+  type: melee
+PYRANA:
+  cn: 食人鱼
+  id: 212
+  query: false
+  type: vice
+QUANTA:
+  cn: 量子切割器
+  id: 213
+  query: false
+  type: master
+QUARTAKK:
+  cn: 夸塔克
+  id: 214
+  query: false
+  type: master
+RABVEE:
+  cn: 拉比威
+  id: 215
+  query: false
+  type: melee
+RATTLEGUTS:
+  cn: 响胆
+  id: 216
+  query: false
+  type: vice
+REAPERPRIME:
+  cn: 收割者Prime
+  id: 217
+  query: false
+  type: melee
+REDEEMER:
+  cn: 救赎者
+  id: 218
+  query: false
+  type: melee
+RIPKAS:
+  cn: 锐卡斯
+  id: 219
+  query: false
+  type: melee
+RUBICO:
+  cn: 绝路
+  id: 220
+  query: false
+  type: master
+SARPA:
+  cn: 蛇刃
+  id: 221
+  query: false
+  type: melee
+SCINDO:
+  cn: 分裂斩斧
+  id: 222
+  query: false
+  type: melee
+SCOLIAC:
+  cn: 嵴椎节鞭
+  id: 223
+  query: false
+  type: melee
+SCOURGE:
+  cn: 祸根
+  id: 224
+  query: false
+  type: master
+SEER:
+  cn: 预言者
+  id: 225
+  query: false
+  type: vice
+SEPFAHN:
+  cn: 瑟普梵
+  id: 226
+  query: false
+  type: melee
+SERRO:
+  cn: 电能斩锯
+  id: 227
+  query: false
+  type: melee
+SHAKU:
+  cn: 双节尺棍
+  id: 228
+  query: false
+  type: melee
+SHEEV:
+  cn: 希芙
+  id: 229
+  query: false
+  type: melee
+SIBEAR:
+  cn: 西伯利亚冰锤
+  id: 230
+  query: false
+  type: melee
+SICARUS:
+  cn: 暗杀者
+  id: 231
+  query: false
+  type: vice
+SIGMAOCTANTIS:
+  cn: 西格玛&南极座
+  id: 232
+  query: false
+  type: melee
+SILVAAEGIS:
+  cn: 席瓦&神盾
+  id: 233
+  query: false
+  type: melee
+SIMULOR:
+  cn: 重力奇点拟成枪
+  id: 234
+  query: false
+  type: master
+SKANA:
+  cn: 空刃
+  id: 235
+  query: false
+  type: melee
+SKIAJATI:
+  cn: 影生
+  id: 236
+  query: false
+  type: melee
+SNIPETRON:
+  cn: 狙击特昂
+  id: 237
+  query: false
+  type: master
+SOBEK:
+  cn: 鳄神
+  id: 238
+  query: false
+  type: master
+SOMA:
+  cn: 月神
+  id: 239
+  query: false
+  type: master
+SONICOR:
+  cn: 超音波冲击枪
+  id: 240
+  query: false
+  type: vice
+SPECTRA:
+  cn: 光谱切割器
+  id: 241
+  query: false
+  type: vice
+SPIRA:
+  cn: 旋刃飞刀
+  id: 242
+  query: false
+  type: vice
+STATICOR:
+  cn: 静电能量导引枪
+  id: 243
+  query: false
+  type: vice
+STINGER:
+  cn: 毒刺
+  id: 244
+  query: false
+  type: bot
+STRADAVAR:
+  cn: 斯特拉迪瓦
+  id: 245
+  query: false
+  type: master
+STRUN:
+  cn: 斯特朗
+  id: 246
+  query: false
+  type: master
+STUBBA:
+  cn: 史度巴
+  id: 247
+  query: false
+  type: vice
+STUG:
+  cn: 史特克
+  id: 248
+  query: false
+  type: vice
+SUPRA:
+  cn: 苏普拉
+  id: 249
+  query: false
+  type: master
+SWEEPER:
+  cn: 扫除者
+  id: 250
+  query: false
+  type: bot
+SYBARIS:
+  cn: 席芭莉丝
+  id: 251
+  query: false
+  type: master
+SYDON:
+  cn: 恶龙
+  id: 252
+  query: false
+  type: melee
+SYNAPSE:
+  cn: 突触生化枪
+  id: 253
+  query: false
+  type: master
+TALONS:
+  cn: 鹰爪
+  id: 254
+  query: false
+  type: vice
+TATSU:
+  cn: 龙辰
+  id: 255
+  query: false
+  type: melee
+TAZICOR:
+  cn: 泰瑟步枪
+  id: 256
+  query: false
+  type: bot
+TEKKO:
+  cn: 铁钩手甲
+  id: 257
+  query: false
+  type: melee
+TENORA:
+  cn: 双簧管
+  id: 258
+  query: false
+  type: master
+TETRA:
+  cn: 特拉
+  id: 259
+  query: false
+  type: master
+TIBERON:
+  cn: 狂鲨
+  id: 260
+  query: false
+  type: master
+TIGRIS:
+  cn: 猛虎
+  id: 261
+  query: false
+  type: master
+TIPEDO:
+  cn: 提佩多
+  id: 262
+  query: false
+  type: melee
+TOMBFINGER:
+  cn: 墓指
+  id: 263
+  query: false
+  type: vice
+TONBO:
+  cn: 蜻蜓薙
+  id: 264
+  query: false
+  type: melee
+TONKOR:
+  cn: 征服榴炮
+  id: 265
+  query: false
+  type: master
+TORID:
+  cn: 托里德
+  id: 266
+  query: false
+  type: master
+TWINBASOLK:
+  cn: 双子巴萨克
+  id: 267
+  query: false
+  type: vice
+TWINGRAKATAS:
+  cn: 双子葛拉卡达
+  id: 268
+  query: false
+  type: vice
+TWINGREMLINS:
+  cn: 双子小精灵
+  id: 269
+  query: false
+  type: vice
+TWINKOHMAK:
+  cn: 双子寇恩霰机枪
+  id: 270
+  query: false
+  type: vice
+TWINKROHKUR:
+  cn: 双子克鲁古尔
+  id: 271
+  query: false
+  type: vice
+TWINROGGA:
+  cn: 双子罗格
+  id: 272
+  query: false
+  type: vice
+TWINVIPERS:
+  cn: 双子蝰蛇
+  id: 273
+  query: false
+  type: vice
+TYSIS:
+  cn: 啐沫者
+  id: 274
+  query: false
+  type: vice
+VASTO:
+  cn: 瓦斯托
+  id: 275
+  query: false
+  type: vice
+VECTIS:
+  cn: 守望者
+  id: 276
+  query: false
+  type: master
+VELDT:
+  cn: 草原猎手
+  id: 277
+  query: false
+  type: master
+VELOCITUS:
+  cn: 极速电磁步枪
+  id: 278
+  query: false
+  type: arc
+VENKA:
+  cn: 凯旋之爪
+  id: 279
+  query: false
+  type: melee
+VIPER:
+  cn: 蝰蛇
+  id: 280
+  query: false
+  type: vice
+VOLNUS:
+  cn: 创伤
+  id: 281
+  query: false
+  type: melee
+VULCAX:
+  cn: 金工火舌
+  id: 282
+  query: false
+  type: bot
+VULKAR:
+  cn: 金工火神
+  id: 283
+  query: false
+  type: master
+VULKLOK:
+  cn: 金工火枪
+  id: 284
+  query: false
+  type: bot
+WAR:
+  cn: 战争之剑
+  id: 285
+  query: false
+  type: melee
+WOLFSLEDGE:
+  cn: 恶狼战锤
+  id: 286
+  query: false
+  type: melee
+ZAKTI:
+  cn: 毒芽
+  id: 287
+  query: false
+  type: vice
+ZARR:
+  cn: 沙皇
+  id: 288
+  query: false
+  type: master
+ZENISTAR:
+  cn: 天顶之星
+  id: 289
+  query: false
+  type: melee
+ZENITH:
+  cn: 天穹之顶
+  id: 290
+  query: false
+  type: master
+ZHUGE:
+  cn: 诸葛连弩
+  id: 291
+  query: false
+  type: master
+ZYLOK:
+  cn: 席尔火枪
+  id: 292
+  query: false
+  type: vice
