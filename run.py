@@ -63,7 +63,7 @@ for weapons_name in setups:
         continue
 
     for riven_uuid in uuid_list:
-
+        result[weapons_name] = {}
         # 过滤没有价格的紫卡
         if not riven_uuid['price']:
             continue
@@ -85,10 +85,11 @@ for weapons_name in setups:
         riven_attr_info = graphic_recognition(image_path)
 
         # 属性格式化
-        result[weapons_name] = conversion_recognition(riven_attr_info, weapons_name, weapons, attrs)
+        result[weapons_name][riven_uuid['guid']] = conversion_recognition(riven_attr_info, weapons_name, weapons, attrs)
 
         # 添加价格信息
-        result[weapons_name]['price'] = riven_uuid['price']
-        result[weapons_name]['preset_price'] = weapons_price
-print(result)
+        result[weapons_name][riven_uuid['guid']]['price'] = riven_uuid['price']
+        result[weapons_name][riven_uuid['guid']]['preset_price'] = weapons_price
+        print(result)
+        exit()
 pass

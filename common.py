@@ -95,7 +95,8 @@ def get_uuid_url(weapon_id, ids):
     :param ids: 属性ids
     :return: string
     """
-    uri = '/killshot/search?rivenType='+str(weapon_id)
+    uri = '/killshot/search?rivenType=280'
+    # uri = '/killshot/search?rivenType=280'+str(weapon_id)
     for attr_type in ids:
         if attr_type.find('curse') >= 0:
             # 紫卡只允许有一条负属性
@@ -151,13 +152,12 @@ def get_attr_cn(attr_name, weapons_name, weapons, attrs, p_and_n='p'):
     if 'type' in weapons[weapons_name]:
         weapon_type = weapons[weapons_name]['type']
         if p_and_n == 'p':
-            print(weapons_name)
-            exit()
-            if 'cn' in attrs[weapon_type][attr_name]:
+
+            if attr_name in attrs[weapon_type] and 'cn' in attrs[weapon_type][attr_name]:
                 return attrs[weapon_type][attr_name]['cn']
         else:
             weapon_type = weapon_type+"_curse"
-            if 'cn' in attrs[weapon_type][attr_name]:
+            if attr_name in attrs[weapon_type] and 'cn' in attrs[weapon_type][attr_name]:
                 return attrs[weapon_type][attr_name]['cn']
     return None
 
@@ -190,8 +190,8 @@ def conversion_recognition(res, weapons_name, weapons, attrs):
             elif riven_attr_info.find('%') and riven_attr_info.find('%') > 0:
                 attr_value = re.search(r'\d+(\.\d+)?', riven_attr_info).group()
                 attr_name = ''.join(re.findall(r'[A-Za-z]', riven_attr_info))
-                # 识别重置次数
 
+                # 识别属性
                 if riven_attr_info.find('+') >= 0 and riven_attr_info.find('WeaponRecoil') < 0:
                     attr_name = '+' + get_attr_cn(attr_name, weapons_name, weapons, attrs, 'p')
                     if weapon_type not in result['attr']:
@@ -199,9 +199,9 @@ def conversion_recognition(res, weapons_name, weapons, attrs):
                     result['attr'][weapon_type][attr_name] = attr_value
                 else:
                     if riven_attr_info.find('WeaponRecoil') >= 0:
-                        attr_name = '+' + get_attr_cn(attr_name, weapons_name, weapons, attrs, 'n')
+                        attr_name = '+' + str(get_attr_cn(attr_name, weapons_name, weapons, attrs, 'n'))
                     else:
-                        attr_name = '-' + get_attr_cn(attr_name, weapons_name, weapons, attrs, 'n')
+                        attr_name = '-' + str(get_attr_cn(attr_name, weapons_name, weapons, attrs, 'n'))
                     weapon_type = str('+'+weapon_type)+'_curse'
                     if weapon_type not in result['attr']:
 

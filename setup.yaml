@@ -1,7 +1,7 @@
-IGNIS:
+KOHM:
   master:
-    - CriticalDamage
-    - CriticalChance
+    - StatusChance
+    - Damage
   master_curse:
-    - Zoom
-  price: 20000
+    - AmmoMaximum
+  price: 300
